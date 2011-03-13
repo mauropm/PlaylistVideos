@@ -1,0 +1,13 @@
+PlaylistVideos
+
+(c) 2011 Mauro Parra-Miranda <mauropm@gmail.com>
+
+Este es un pequeno codigo que permite a una aplicacion de ipad tener varios videos que se desplieguen 
+de forma seguida. 
+
+Solo anexa tus videos movie1.mov, movie2.mov, etc en Resources. 
+
+Este proyecto esta basado en Titanium Appcelerator Mobile 1.6.0.
+
+Este codigo se puede usar como viene bajo los terminos de la licencia BSD, que puedes leer en 
+BSD.txt
